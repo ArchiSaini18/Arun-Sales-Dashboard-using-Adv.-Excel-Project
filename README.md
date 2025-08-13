@@ -1,7 +1,7 @@
-Excel Dashboard for Sales (2022) 
+💹 Excel Dashboard for Sales (2022) 
 
 
-An Interactive and Insightful Excel Dashboard for Sales (2022) — Analyzing Orders, Channels, Demographics, and Status Trends for Smarter Decisions.
+📊 An Interactive and Insightful Excel Dashboard for Sales (2022) — Analyzing Orders, Channels, Demographics, and Status Trends for Smarter Decisions.
 Description:
 An interactive Excel dashboard designed to analyze Sales performance in 2022, visualizing key metrics such as orders by sales channel, customer demographics, top-selling products, and
 order status breakdown. The dashboard leverages multiple chart types including pie charts, cluster column charts, and cluster bar charts to provide a clear, visual representation of sales
